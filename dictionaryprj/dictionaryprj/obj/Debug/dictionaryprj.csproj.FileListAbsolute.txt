@@ -1,0 +1,33 @@
+D:\dictionaryprj\dictionaryprj\bin\Debug\dictionaryprj.exe.config
+D:\dictionaryprj\dictionaryprj\bin\Debug\dictionaryprj.exe
+D:\dictionaryprj\dictionaryprj\bin\Debug\dictionaryprj.pdb
+D:\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.csproj.AssemblyReference.cache
+D:\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.Form1.resources
+D:\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.Properties.Resources.resources
+D:\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.csproj.GenerateResource.cache
+D:\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.csproj.CoreCompileInputs.cache
+D:\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.exe
+D:\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.pdb
+D:\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.Form2.resources
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\bin\Debug\dictionaryprj.exe.config
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\bin\Debug\dictionaryprj.exe
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\bin\Debug\dictionaryprj.pdb
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.Form1.resources
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.Form2.resources
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.Properties.Resources.resources
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.exe
+C:\Users\Admin\Downloads\UEH\Kì 3\dictionaryprj (1)213123\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.pdb
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\bin\Debug\dictionaryprj.exe.config
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\bin\Debug\dictionaryprj.exe
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\bin\Debug\dictionaryprj.pdb
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.Form1.resources
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.Form2.resources
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.Properties.Resources.resources
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.exe
+C:\Users\Admin\Downloads\UEH\Kì 3\DSA Project EN-VN Dictionary\dictionaryprj\dictionaryprj\obj\Debug\dictionaryprj.pdb
