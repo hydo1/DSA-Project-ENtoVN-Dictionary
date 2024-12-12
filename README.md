@@ -4,7 +4,7 @@
 ## Members
 
 - 31231021575 - Đỗ Thái Gia Hy ([@hydo1](https://github.com/hydo1))
-- 31231020517 - Lê Hoàng ([@tal-320](https://github.com/tal-320))
+- 31231020517 - Lê Hoàng ([@]())
 - 31231021637 - Phạm Anh Kiệt ()
 - 31231023784 - Trần Huỳnh Huy Thông ()
 
