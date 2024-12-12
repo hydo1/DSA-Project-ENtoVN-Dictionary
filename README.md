@@ -1,7 +1,7 @@
 # DSA-Project-ENtoVN-Dictionary
 Đồ án môn học Cấu Trúc Dữ Liệu và Giải Thuật (24C1INF50900701) - Ứng dụng cấu trúc Dictionary để tạo ra một bộ từ điển Anh-Việt - UEH
 
-## Authors
+## Members
 
 - 31231021575 - Đỗ Thái Gia Hy ([@hydo1](https://github.com/hydo1))
 - 31231020517 - Lê Hoàng ([@tal-320](https://github.com/tal-320))
@@ -20,6 +20,6 @@
 
 ## Acknowledgements
 
-We would like to express our sincere gratitude to our teacher. Their dedication and patience have been instrumental in our learning journey. We are incredibly grateful for their efforts in making this course engaging and informative.
+We would like to express our sincere gratitude to our teacher. His dedication and patience have been instrumental in our learning journey. We are incredibly grateful for his efforts in making this course engaging and informative.
 
 We would also like to extend our thanks to the University of Economics Ho Chi Minh City for providing us with the resources and opportunities to undertake this project. 
