@@ -16,8 +16,8 @@
 
 ## Screenshots
 
-<img src="winform1.PNG" width="600px">
-<img src="winform2.PNG" width="600px">
+![image alt](https://github.com/hydo1/DSA-Project-ENtoVN-Dictionary/blob/b93d1be10caf32224f086a53ef3ceea15de12e64/winform1.png)
+![image alt](https://github.com/hydo1/DSA-Project-ENtoVN-Dictionary/blob/b93d1be10caf32224f086a53ef3ceea15de12e64/winform2.png)
 
 ## Acknowledgements
 
