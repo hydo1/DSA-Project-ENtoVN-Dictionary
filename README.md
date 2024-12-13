@@ -1,8 +1,8 @@
 # DSA-Project-ENtoVN-Dictionary
 Đồ án môn học Cấu Trúc Dữ Liệu và Giải Thuật (24C1INF50900701) - Ứng dụng cấu trúc Dictionary để tạo ra một bộ từ điển Anh-Việt - UEH
 ## Installation
-Please turn off Real-time protection in Virus & threat protection settings if the files got flagged as virus.
-Xin hãy tắt Real-time protection trong Virus & threat protection settings nếu file bị chặn do virus.
+- Please turn off Real-time protection in Virus & threat protection settings if the files got flagged as virus.
+- Xin hãy tắt Real-time protection trong Virus & threat protection settings nếu file bị chặn do virus.
 ## Members
 
 - 31231021575 - Đỗ Thái Gia Hy ([@hydo1](https://github.com/hydo1))
